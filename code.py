@@ -14,7 +14,7 @@ population_data = {
 }
 
 # Read the CSV file
-with open(r'C:\Users\Sundara Raghav .G\OneDrive\Desktop\south_india_population_trend.csv.txt', mode='r') as file:
+with open(r'Python_mini_project\Population.csv', mode='r') as file:
     reader = csv.DictReader(file)
     for row in reader:
         years.append(int(row['Year']))
