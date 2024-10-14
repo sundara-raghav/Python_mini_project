@@ -14,6 +14,9 @@ To visualize the population data, the python library matplotlib is used. matplot
 Install matplotlib: run the following command to install matplotlib using pip:
 pip install matplotlib
 
+
+**OUTPUT**
+
 ![image](https://github.com/user-attachments/assets/65165f80-d739-42fc-a871-4c4811c6e1b7)
 
 
